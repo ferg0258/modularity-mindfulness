@@ -2,3 +2,18 @@ html {
   font-family: 'Noto Sans', sans-serif;
   font-family: "Noto Sans Japanese", sans-serif;
 }
+
+nav a {
+  text-decoration: none;
+  color: #005e76;
+  border-bottom: 2px solid #0084a6;
+}
+
+.btn-ghost {
+  color: #005e76;
+  border-color: #0084a6;
+}
+
+.btn-ghost-hover {
+  color:
+}
